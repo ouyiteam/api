@@ -1,0 +1,18 @@
+{
+  "name": "注塑宝",
+  "platform": "iOS",
+  "unique":"com.TLH.zhusubao",
+  "logo":"https://ouyiteam.github.io/api/imgs/logo/zsb.png",
+  "version":"V3.7.0",
+  "updatetime":"2017-12-18",
+  "doc":"",
+  "imgs":["https://ouyiteam.github.io/api/imgs/detailImgs/iOS_zsb1.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_zsb2.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_zsb3.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_zsb4.jpg"],
+  "description":"注塑宝是一款专注于注塑生产过程管理的软件，以公共云计算平台为基础，构建数据交互平台，致力于解决中小型制造业企业生产经营过程中常见的“信息不对称”、“人机料管理不畅”、“订单与产能匹配”的问题，提高企业核心竞争力，协助企业稳步发展。注塑宝提供：机台生产状况监测、订单生产状态监测、生产计划状态监测以及产品出入库管理等。",
+  "logsurl":"",
+  "state":"1",
+  "ext": "",
+  "remark":""
+}
