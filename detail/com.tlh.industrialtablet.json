@@ -1,0 +1,18 @@
+{
+  "name": "注塑宝HD",
+  "platform": "Android",
+  "unique":"com.tlh.industrialtablet",
+  "logo":"https://ouyiteam.github.io/api/imgs/logo/zsbOperate.png",
+  "version":"V3.7.0",
+  "updatetime":"2017-12-20",
+  "doc":"",
+  "imgs":["https://ouyiteam.github.io/api/imgs/detailImgs/iOS_ysb1.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_ysb2.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_ysb3.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_ysb4.jpg"],
+  "description":"易塑宝是一款帮助企业便捷管理生产的软件，致力于解决中小型制造业企业生产过程中的常见问题，提高企业核心竞争力，协助企业稳步发展。易塑宝特点：云端运维、真实生产数据、生产预警、效率分析、能耗管理、自动报表、绩效统计、便捷报工等。",
+  "logsurl":"",
+  "state":"1",
+  "ext": "",
+  "remark":""
+}

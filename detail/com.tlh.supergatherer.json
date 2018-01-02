@@ -1,0 +1,19 @@
+{
+  "name": "LDAR建档助手",
+  "platform": "Android",
+  "unique":"com.tlh.supergatherer",
+  "logo":"https://ouyiteam.github.io/api/imgs/logo/ic_launcher.png",
+  "version":"V3.7.0",
+  "updatetime":"2017-12-20",
+  "doc":"",
+  "imgs":["https://ouyiteam.github.io/api/imgs/detailImgs/zsb_ipad1.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/zsb_ipad2.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/zsb_ipad3.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/zsb_ipad4.jpg",
+    "https://ouyiteam.github.io/api/imgs/detailImgs/zsb_ipad5.jpg"],
+  "description":"注塑宝是一款专注于注塑生产过程管理的软件，以公共云计算平台为基础，构建数据交互平台，致力于解决中小型制造业企业生产经营过程中常见的“信息不对称”、“人机料管理不畅”、“订单与产能匹配”的问题，提高企业核心竞争力，协助企业稳步发展。注塑宝提供：机台生产状况监测、订单生产状态监测、生产计划状态监测以及产品出入库管理等。",
+  "logsurl":"",
+  "state":"1",
+  "ext": "",
+  "remark":""
+}

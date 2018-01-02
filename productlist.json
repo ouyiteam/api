@@ -26,7 +26,7 @@
   {
     "name": "易塑宝",
     "platform": "Android",
-    "unique":"com.tlh.zhusubao.x",
+    "unique":"com.tlh.simpleqxt",
     "logo":"https://ouyiteam.github.io/api/imgs/logo/ysb.png",
     "version":"V1.0.3",
     "updatetime":"2017-12-15",
@@ -50,7 +50,7 @@
   {
     "name": "注塑宝TV",
     "platform": "Android",
-    "unique":"com.tlh.QXTSimple",
+    "unique":"com.tlh.tv.zhusubaotvx",
     "logo":"https://ouyiteam.github.io/api/imgs/logo/zsbTV.png",
     "version":"V3.7.0",
     "updatetime":"2017-12-20",
@@ -62,8 +62,8 @@
   {
     "name": "注塑宝HD",
     "platform": "Android",
-    "unique":"com.tlh.QXTSimple",
-    "logo":"https://ouyiteam.github.io/api/imgs/logo/ysb.png",
+    "unique":"com.tlh.industrialtablet",
+    "logo":"https://ouyiteam.github.io/api/imgs/logo/zsbOperate.png",
     "version":"V3.7.0",
     "updatetime":"2017-12-20",
     "detailurl":"",
@@ -74,7 +74,7 @@
   {
     "name": "注塑宝扫码终端",
     "platform": "Android",
-    "unique":"com.tlh.QXTSimple",
+    "unique":"com.tlh.scanterminal",
     "logo":"https://ouyiteam.github.io/api/imgs/logo/zsbScan.png",
     "version":"V2.3.1",
     "updatetime":"2017-12-15",
@@ -86,7 +86,7 @@
   {
     "name": "注塑宝iPad",
     "platform": "iOS",
-    "unique":"com.TLH.zhusubao",
+    "unique":"com.TLH.zhusubaoHD",
     "logo":"https://ouyiteam.github.io/api/imgs/logo/zsbHD.png",
     "version":"V3.7.0",
     "updatetime":"2017-12-20",
@@ -96,10 +96,10 @@
     "remark":""
   },
   {
-    "name": "注塑宝操作助手",
+    "name": "LDAR建档助手",
     "platform": "Android",
-    "unique":"com.tlh.QXTSimple",
-    "logo":"https://ouyiteam.github.io/api/imgs/logo/zsbOperate.png",
+    "unique":"com.tlh.supergatherer",
+    "logo":"https://ouyiteam.github.io/api/imgs/logo/ic_launcher.png",
     "version":"V3.7.0",
     "updatetime":"2017-12-20",
     "detailurl":"",
