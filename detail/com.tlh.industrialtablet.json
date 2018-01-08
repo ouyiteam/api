@@ -10,8 +10,8 @@
     "http://p17.qhimg.com/dm/272_170_/t01f108f5d6892b3fba.png",
     "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_ysb3.jpg",
     "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_ysb4.jpg"],
-  "description":"注塑宝是一款专注于注塑生产过程管理的软件，以公共云计算平台为基础，构建数据交互平台，致力于解决中小型制造业企业生产经营过程中常见的“信息不对称”、“人机料管理不畅”、“订单与产能匹配”的问题，提高企业核心竞争力，协助企业稳步发展。注塑宝提供：机台生产状况监测、生产计划状态监测、机台效率分析等。",
-  "logsurl":"",
+  "description":"<div><div >应用信息</div><div  style=\"height: 147px;\"><div >注塑宝是一款专注于注塑生产过程管理的软件，以公共云计算平台为基础，构建数据交互平台，致力于解决中小型制造业企业生产经营过程中常见的“信息不对称”、“人机料管理不畅”、“订单与产能匹配”的问题，提高企业核心竞争力，协助企业稳步发展。<br>注塑宝提供：机台生产状况监测、订单生产状态监测、生产计划状态监测以及产品出入库管理等。</div><div>更新内容：</div><div >（1）优化升级<br>（2）修改部分界面布局<br>（3）修复已知BUG</div></div></div>",
+  "logsurl":"https://ouyiteam.github.io/api/detail/logs/com.tlh.industrialtablet.html",
   "state":"1",
   "ext": "",
   "remark":""

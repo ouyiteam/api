@@ -10,8 +10,8 @@
     "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_ysb2.jpg",
     "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_ysb3.jpg",
     "https://ouyiteam.github.io/api/imgs/detailImgs/iOS_ysb4.jpg"],
-  "description":"易塑宝是一款帮助企业便捷管理生产的软件，致力于解决中小型制造业企业生产过程中的常见问题，提高企业核心竞争力，协助企业稳步发展。易塑宝特点：云端运维、真实生产数据、生产预警、效率分析、能耗管理、自动报表、绩效统计、便捷报工等。",
-  "logsurl":"",
+  "description":"<div><div >应用信息</div><div  style=\"height: 147px;\"><div >易塑宝是一款帮助企业便捷管理生产的软件，致力于解决中小型制造业企业生产过程中的常见问题，提高企业核心竞争力，协助企业稳步发展。易塑宝特点：云端运维、真实生产数据、生产预警、效率分析、能耗管理、自动报表、绩效统计、便捷报工等。</div>",
+  "logsurl":"https://ouyiteam.github.io/api/detail/logs/com.tlh.QXTSimple.html",
   "state":"1",
   "ext": "",
   "remark":""
